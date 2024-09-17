@@ -126,7 +126,7 @@ Detailed results and analysis can be found in the `results/` directory.
 ## Let's connect
 
 - **GitHub** - [3m0r9](https://github.com/3m0r9)
-- **linkedIn** - [Imran Abu Libda]([https://github.com/3m0r9](https://www.linkedin.com/in/imran-abu-libda/))
+- **linkedIn** - [Imran Abu Libda](https://www.linkedin.com/in/imran-abu-libda/)
 - **Email** - [imranabulibda@gmail.com](mailto:imranabulibda@gmail.com)
 - **Medium** - [Imran Abu Libda](https://medium.com/@imranabulibda_23845)
 
